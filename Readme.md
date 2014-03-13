@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/el](http://github.com/code42day/el). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-el`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://img.shields.io/travis/code42day/el.svg)](http://travis-ci.org/code42day/el)
 [![Dependency Status](https://img.shields.io/gemnasium/code42day/el.svg)](https://gemnasium.com/code42day/el)
 [![NPM version](https://img.shields.io/npm/v/el-component.svg)](http://badge.fury.io/js/el-component)
